@@ -1,1 +1,8 @@
-{"applicationKey":{"version":"1.0.0","clientPlatform":"ios","bundleId":"com.tasklist"},"displayName":"tasklist"}
+{
+  "applicationKey": {
+    "version": "1.0.1",
+    "clientPlatform": "ios",
+    "bundleId": "com.tasklist"
+  },
+  "displayName": "tasklist"
+}

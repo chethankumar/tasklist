@@ -5700,3 +5700,4 @@ emulator: INFO: boot time 20643 ms
 emulator: Increasing screen off timeout, logcat buffer size to 2M.
 emulator: Revoking microphone permissions for Google App.
 
+ Info | IonicEditor | save | Thu Nov 21 2019, 17:48:37 GMT+0530 (IST) | saved file /Users/chethankumar/projects/demo/tasklist/ibm/mobile_config/config.json
