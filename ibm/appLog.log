@@ -5253,3 +5253,450 @@ logPath: /Users/chethankumar/projects/demo/tasklist/ionic/platforms/ios/cordova/
 
 
 Success | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 12:11:24 GMT+0530 (IST) | Check out your App on simulator
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:12:56 GMT+0530 (IST) | Adding platform: android
+Success | projectHandler | updateProject | Thu Nov 21 2019, 17:12:56 GMT+0530 (IST) | App details saved to WS file successfully
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:12:56 GMT+0530 (IST) | > cordova platform add android --save
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:12:58 GMT+0530 (IST) | Using cordova-fetch for cordova-android@^8.0.0
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:05 GMT+0530 (IST) | Adding android project...
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:05 GMT+0530 (IST) | Creating Cordova project for the Android platform:
+	Path: platforms/android
+	Package: com.tasklist
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:05 GMT+0530 (IST) | 	Name: tasklist
+	Activity: MainActivity
+	Android target: android-28
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:05 GMT+0530 (IST) | Subproject Path: CordovaLib
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:05 GMT+0530 (IST) | Subproject Path: app
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:05 GMT+0530 (IST) | Android project created with cordova-android@8.1.0
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:05 GMT+0530 (IST) | Installing "cordova-plugin-device" for android
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:05 GMT+0530 (IST) | Installing "cordova-plugin-dialogs" for android
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:05 GMT+0530 (IST) | Installing "cordova-plugin-globalization" for android
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:05 GMT+0530 (IST) | Installing "cordova-plugin-ionic-keyboard" for android
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:05 GMT+0530 (IST) | Installing "cordova-plugin-ionic-webview" for android
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Subproject Path: CordovaLib
+Subproject Path: app
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Installing "cordova-plugin-mfp" for android
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Plugin dependency "cordova-plugin-device@2.0.2" already fetched, using that version.
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Dependent plugin "cordova-plugin-device" already installed on android.
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Plugin dependency "cordova-plugin-dialogs@2.0.1" already fetched, using that version.
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Dependent plugin "cordova-plugin-dialogs" already installed on android.
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Plugin dependency "cordova-plugin-globalization@1.11.0" already fetched, using that version.
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Dependent plugin "cordova-plugin-globalization" already installed on android.
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Plugin dependency "cordova-plugin-okhttp@2.0.0" already fetched, using that version.
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Installing "cordova-plugin-okhttp" for android
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Subproject Path: CordovaLib
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Subproject Path: app
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Subproject Path: CordovaLib
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Subproject Path: app
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | MainActivity.java was backed up as MainActivity.original. A MobileFirst Platform Foundation version of MainActivity.java was added. If you have made changes in the original MainActivity.java, you need to merge them with the current MainActivity.java in the /Users/chethankumar/projects/demo/tasklist/ionic/platforms/android/app/src/main/java/com/tasklist directory.
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Dependent plugin "cordova-plugin-okhttp" already installed on android.
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Installing "cordova-plugin-splashscreen" for android
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Installing "cordova-plugin-statusbar" for android
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:06 GMT+0530 (IST) | Installing "cordova-plugin-whitelist" for android
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:07 GMT+0530 (IST) | 
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:07 GMT+0530 (IST) |                This plugin is only applicable for versions of cordova-android greater than 4.0. If you have a previous platform version, you do *not* need this plugin since the whitelist will be built in.
+          
+
+ Info | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:07 GMT+0530 (IST) | child process exited with code 0
+Success | projectHandler | excuteAddPlatform | Thu Nov 21 2019, 17:13:07 GMT+0530 (IST) | Platform android added successfully
+Success | CreatingAppActions | createNewAppOnServer | Thu Nov 21 2019, 17:13:07 GMT+0530 (IST) | App created on the server successfully for 'android' platform
+ Info | CreatingAppActions | createNewAppOnServer | Thu Nov 21 2019, 17:13:07 GMT+0530 (IST) | {
+  "data": {
+    "transaction": {
+      "id": 11,
+      "type": "UPLOAD_ARTIFACT",
+      "status": "SUCCESS",
+      "project": {
+        "name": "mfp"
+      },
+      "timeCreated": "2019-11-21T11:43:07.635Z",
+      "timeUpdated": "2019-11-21T11:43:07.814Z",
+      "userName": "admin",
+      "appServerId": "Liberty",
+      "errors": [],
+      "warnings": [],
+      "description": {
+        "name": "com.tasklist$android$1.0.0",
+        "type": "APP_DESCRIPTOR"
+      }
+    },
+    "ok": true,
+    "pushDetails": {
+      "code": "FPWSE0002E",
+      "message": "Conflict - The target resource 'PushApplication' already exists. Check the 'com.tasklist' parameter.",
+      "status": "SUCCESS"
+    },
+    "productVersion": "8.0.0.00-20191009-135035"
+  },
+  "status": 200,
+  "statusText": "OK",
+  "headers": {
+    "date": "Thu, 21 Nov 2019 11:43:07 GMT",
+    "cache-control": "no-cache, no-transform",
+    "expires": "Thu, 01 Dec 1994 16:00:00 GMT",
+    "x-powered-by": "Servlet/3.1",
+    "content-length": "563",
+    "content-language": "en-US",
+    "content-type": "application/json"
+  },
+  "config": {
+    "transformRequest": {},
+    "transformResponse": {},
+    "timeout": 0,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "headers": {
+      "Accept": "application/json, text/plain, */*",
+      "Content-Type": "application/json;charset=utf-8",
+      "Authorization": "Basic YWRtaW46YWRtaW4="
+    },
+    "method": "post",
+    "auth": {
+      "username": "admin",
+      "password": "admin"
+    },
+    "url": "http://localhost:9080/mfpadmin/management-apis/2.0/runtimes/mfp/applications?async=false",
+    "data": "{\"applicationKey\":{\"version\":\"1.0.0\",\"clientPlatform\":\"android\",\"packageName\":\"com.tasklist\"},\"displayName\":\"tasklist\"}"
+  },
+  "request": {}
+}
+ Info | IonicTopBar | prepareAppForPreview | Thu Nov 21 2019, 17:27:46 GMT+0530 (IST) | Sip on your coffee while we prepare your app
+ Info | IonicTopBar | prepareAppForPreview | Thu Nov 21 2019, 17:27:46 GMT+0530 (IST) | Running ionic cordova prepare... sit back and relax
+ Info | IonicTopBar | prepareAppForPreview | Thu Nov 21 2019, 17:27:46 GMT+0530 (IST) | Updated bundle ID in config.xml.
+ Info | IonicTopBar | prepareAppForPreview | Thu Nov 21 2019, 17:27:46 GMT+0530 (IST) | Updated version in config.xml.
+ Info | IonicTopBar | prepareAppForPreview | Thu Nov 21 2019, 17:27:46 GMT+0530 (IST) | Updated MFP server URL in config.xml.
+ Info | IonicTopBar | prepareAppForPreview | Thu Nov 21 2019, 17:27:46 GMT+0530 (IST) | MFP server URL updated is : http://localhost:9080 
+ Info | IonicTopBar | prepareAppForPreview | Thu Nov 21 2019, 17:27:46 GMT+0530 (IST) | Config.xml is updated
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:46 GMT+0530 (IST) | Trying to shut down previous process
+ Info | updatePreviewState | undefined | Thu Nov 21 2019, 17:27:46 GMT+0530 (IST) | undefined
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:46 GMT+0530 (IST) | > ionic-app-scripts build --target cordova --platform android
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:49 GMT+0530 (IST) | [17:27:49]  ionic-app-scripts 3.1.11 
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:49 GMT+0530 (IST) | [17:27:49]  build dev started ... 
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:49 GMT+0530 (IST) | [17:27:49]  clean started ... 
+[17:27:49]  clean finished in 9 ms 
+[17:27:49]  copy started ... 
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:49 GMT+0530 (IST) | [17:27:49]  deeplinks started ... 
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:49 GMT+0530 (IST) | [17:27:49]  deeplinks finished in 23 ms 
+[17:27:49]  transpile started ... 
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:52 GMT+0530 (IST) | [17:27:52]  transpile finished in 2.62 s 
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:52 GMT+0530 (IST) | [17:27:52]  preprocess started ... 
+[17:27:52]  preprocess finished in 1 ms 
+[17:27:52]  webpack started ... 
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:52 GMT+0530 (IST) | [17:27:52]  copy finished in 2.76 s 
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:55 GMT+0530 (IST) | [17:27:55]  webpack finished in 2.79 s 
+[17:27:55]  sass started ... 
+
+ Error | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:55 GMT+0530 (IST) | Without `from` option PostCSS could generate wrong source map and will not find Browserslist config. Set it to CSS file path or to `undefined` to prevent this warning.
+
+Error
+    at response (http://localhost:1212/dist/renderer.dev.js:125345:28)
+    at validateData (http://localhost:1212/dist/renderer.dev.js:125302:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:125342:5)
+    at Socket.previewRunCommand.stderr.on.data (http://localhost:1212/dist/renderer.dev.js:61610:29)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:56 GMT+0530 (IST) | [17:27:56]  sass finished in 1.01 s 
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:56 GMT+0530 (IST) | [17:27:56]  postprocess started ... 
+[17:27:56]  postprocess finished in 5 ms 
+[17:27:56]  lint started ... 
+[17:27:56]  build dev finished in 6.55 s 
+
+ Error | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:58 GMT+0530 (IST) | [33m[17:27:58]  tslint: src/pages/home/home.ts, line: 1 [39m
+
+Error
+    at response (http://localhost:1212/dist/renderer.dev.js:125345:28)
+    at validateData (http://localhost:1212/dist/renderer.dev.js:125302:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:125342:5)
+    at Socket.previewRunCommand.stderr.on.data (http://localhost:1212/dist/renderer.dev.js:61610:29)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Error | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:58 GMT+0530 (IST) | [33m[17:27:58]  tslint: src/pages/home/home.ts, line: 2 [39m
+[33m[17:27:58]  tslint: src/pages/tasks/tasks.ts, line: 1 [39m
+[33m[17:27:58]  tslint: src/pages/tasks/tasks.ts, line: 1 [39m
+[33m[17:27:58]  tslint: src/pages/tasks/tasks.ts, line: 4 [39m
+[33m[17:27:58]  tslint: src/pages/tasks/tasks.ts, line: 5 [39m
+[33m[17:27:58]  tslint: src/pages/landing/landing.ts, line: 1 [39m
+[33m[17:27:58]  tslint: src/pages/landing/landing.ts, line: 2 [39m
+[33m[17:27:58]  tslint: src/pages/login/login.ts, line: 1 [39m
+[33m[17:27:58]  tslint: src/pages/login/login.ts, line: 2 [39m
+[33m[17:27:58]  tslint: src/app/app.component.ts, line: 35 [39m
+[33m[17:27:58]  tslint: src/app/app.component.ts, line: 36 [39m
+[33m[17:27:58]  tslint: src/app/app.component.ts, line: 37 [39m
+
+Error
+    at response (http://localhost:1212/dist/renderer.dev.js:125345:28)
+    at validateData (http://localhost:1212/dist/renderer.dev.js:125302:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:125342:5)
+    at Socket.previewRunCommand.stderr.on.data (http://localhost:1212/dist/renderer.dev.js:61610:29)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+    at Socket.Readable.push (_stream_readable.js:208:10)
+    at Pipe.onread (net.js:594:20) Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:58 GMT+0530 (IST) |             'NgZone' is declared but its value is never read. 
+
+[2m       L1:  [22mimport { Component, Renderer, [41mN[49m[41mg[49m[41mZ[49m[41mo[49m[41mn[49m[41me[49m } from "@angular/core";
+[2m       L2:  [22mimport { NavController, ModalController } from "ionic-angular";
+
+            'ModalController' is declared but its value is never read. 
+
+[2m       L1:  [22mimport { Component, Renderer, NgZone } from "@angular/core";
+[2m       L2:  [22mimport { NavController, [41mM[49m[41mo[49m[41md[49m[41ma[49m[41ml[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from "ionic-angular";
+[2m       L3:  [22mimport { DataStore } from "../../app/dataStore";
+
+            'Renderer' is declared but its value is never read. 
+
+[2m       L1:  [22mimport { Component, [41mR[49m[41me[49m[41mn[49m[41md[49m[41me[49m[41mr[49m[41me[49m[41mr[49m, NgZone, NgModule } from '@angular/core';
+[2m       L2:  [22mimport {
+
+            'NgZone' is declared but its value is never read. 
+
+[2m       L1:  [22mimport { Component, Renderer, [41mN[49m[41mg[49m[41mZ[49m[41mo[49m[41mn[49m[41me[49m, NgModule } from '@angular/core';
+[2m       L2:  [22mimport {
+
+            'ModalController' is declared but its value is never read. 
+
+[2m       L3:  [22mNavController,
+[2m       L4:  [22m[41mM[49m[41mo[49m[41md[49m[41ma[49m[41ml[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m,
+[2m       L5:  [22mLoadingController
+
+            'LoadingController' is declared but its value is never read. 
+
+[2m       L4:  [22m  ModalController,
+[2m       L5:  [22m  [41mL[49m[41mo[49m[41ma[49m[41md[49m[41mi[49m[41mn[49m[41mg[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m
+[2m       L6:  [22m} from 'ionic-angular';
+
+            'NgZone' is declared but its value is never read. 
+
+[2m       L1:  [22mimport { Component, Renderer, [41mN[49m[41mg[49m[41mZ[49m[41mo[49m[41mn[49m[41me[49m } from '@angular/core';
+[2m       L2:  [22mimport { NavController, ModalController } from 'ionic-angular';
+
+            'ModalController' is declared but its value is never read. 
+
+[2m       L1:  [22mimport { Component, Renderer, NgZone } from '@angular/core';
+[2m       L2:  [22mimport { NavController, [41mM[49m[41mo[49m[41md[49m[41ma[49m[41ml[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { DataStore } from '../../app/dataStore';
+
+            'NgZone' is declared but its value is never read. 
+
+[2m       L1:  [22mimport { Component, Renderer, [41mN[49m[41mg[49m[41mZ[49m[41mo[49m[41mn[49m[41me[49m, NgModule } from '@angular/core';
+[2m       L2:  [22mimport { NavController, ModalController } from 'ionic-angular';
+
+            'ModalController' is declared but its value is never read. 
+
+[2m       L1:  [22mimport { Component, Renderer, NgZone, NgModule } from '@angular/core';
+[2m       L2:  [22mimport { NavController, [41mM[49m[41mo[49m[41md[49m[41ma[49m[41ml[49m[41mC[49m[41mo[49m[41mn[49m[41mt[49m[41mr[49m[41mo[49m[41ml[49m[41ml[49m[41me[49m[41mr[49m } from 'ionic-angular';
+[2m       L3:  [22mimport { DataStore } from '../../app/dataStore';
+
+            Property 'renderer' is declared but its value is never read. 
+
+[2m      L34:  [22mpublic splashScreen: SplashScreen,
+[2m      L35:  [22mprivate [41mr[49m[41me[49m[41mn[49m[41md[49m[41me[49m[41mr[49m[41me[49m[41mr[49m: Renderer,
+[2m      L36:  [22mprivate cdr: ChangeDetectorRef,
+
+            Property 'cdr' is declared but its value is never read. 
+
+[2m      L35:  [22mprivate renderer: Renderer,
+[2m      L36:  [22mprivate [41mc[49m[41md[49m[41mr[49m: ChangeDetectorRef,
+[2m      L37:  [22mprivate liveUpdateService: LiveUpdateProvider
+
+            Property 'liveUpdateService' is declared but its value is never read. 
+
+[2m      L36:  [22m  private cdr: ChangeDetectorRef,
+[2m      L37:  [22m  private [41ml[49m[41mi[49m[41mv[49m[41me[49m[41mU[49m[41mp[49m[41md[49m[41ma[49m[41mt[49m[41me[49m[41mS[49m[41me[49m[41mr[49m[41mv[49m[41mi[49m[41mc[49m[41me[49m: LiveUpdateProvider
+[2m      L38:  [22m) {
+
+[17:27:58]  lint finished in 1.89 s 
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:27:58 GMT+0530 (IST) | > cordova run android
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:00 GMT+0530 (IST) | Checking Java JDK and Android SDK versions
+ANDROID_SDK_ROOT=undefined (recommended setting)
+ANDROID_HOME=/Users/chethankumar/Library/Android/sdk (DEPRECATED)
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:00 GMT+0530 (IST) | Starting a Gradle Daemon (subsequent builds will be faster)
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:04 GMT+0530 (IST) | > Task :wrapper
+
+BUILD SUCCESSFUL in 4s
+1 actionable task: 1 executed
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:05 GMT+0530 (IST) | Subproject Path: CordovaLib
+Subproject Path: app
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:05 GMT+0530 (IST) | Starting a Gradle Daemon (subsequent builds will be faster)
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:16 GMT+0530 (IST) | > Task :app:preBuild UP-TO-DATE
+> Task :CordovaLib:preBuild UP-TO-DATE
+> Task :CordovaLib:preDebugBuild UP-TO-DATE
+> Task :CordovaLib:checkDebugManifest
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:16 GMT+0530 (IST) | > Task :CordovaLib:processDebugManifest
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:19 GMT+0530 (IST) | > Task :app:preDebugBuild
+> Task :CordovaLib:compileDebugAidl NO-SOURCE
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:19 GMT+0530 (IST) | > Task :app:compileDebugAidl NO-SOURCE
+> Task :CordovaLib:packageDebugRenderscript NO-SOURCE
+> Task :app:compileDebugRenderscript
+> Task :app:checkDebugManifest
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:19 GMT+0530 (IST) | > Task :app:generateDebugBuildConfig
+> Task :app:prepareLintJar
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:19 GMT+0530 (IST) | > Task :app:generateDebugSources
+> Task :CordovaLib:compileDebugRenderscript
+> Task :CordovaLib:generateDebugBuildConfig
+> Task :CordovaLib:generateDebugResValues
+> Task :CordovaLib:generateDebugResources
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:19 GMT+0530 (IST) | > Task :CordovaLib:packageDebugResources
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:19 GMT+0530 (IST) | > Task :CordovaLib:generateDebugRFile
+> Task :CordovaLib:prepareLintJar
+> Task :CordovaLib:generateDebugSources
+> Task :CordovaLib:javaPreCompileDebug
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:22 GMT+0530 (IST) | > Task :CordovaLib:compileDebugJavaWithJavac
+> Task :CordovaLib:processDebugJavaRes NO-SOURCE
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:22 GMT+0530 (IST) | > Task :CordovaLib:transformClassesAndResourcesWithPrepareIntermediateJarsForDebug
+> Task :app:javaPreCompileDebug
+> Task :app:mainApkListPersistenceDebug
+> Task :app:generateDebugResValues
+> Task :app:generateDebugResources
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:23 GMT+0530 (IST) | > Task :app:mergeDebugResources
+> Task :app:createDebugCompatibleScreenManifests
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:23 GMT+0530 (IST) | > Task :app:processDebugManifest
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:23 GMT+0530 (IST) | > Task :app:processDebugResources
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:24 GMT+0530 (IST) | 
+> Task :app:compileDebugJavaWithJavac
+Note: Some input files use or override a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+
+> Task :app:compileDebugNdk NO-SOURCE
+> Task :app:compileDebugSources
+> Task :app:mergeDebugShaders
+> Task :app:compileDebugShaders
+> Task :app:generateDebugAssets
+> Task :CordovaLib:mergeDebugShaders
+> Task :CordovaLib:compileDebugShaders
+> Task :CordovaLib:generateDebugAssets
+> Task :CordovaLib:packageDebugAssets
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:24 GMT+0530 (IST) | > Task :app:mergeDebugAssets
+> Task :app:validateSigningDebug
+> Task :app:signingConfigWriterDebug
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:30 GMT+0530 (IST) | > Task :app:transformClassesWithDexBuilderForDebug
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:30 GMT+0530 (IST) | > Task :app:transformDexArchiveWithExternalLibsDexMergerForDebug
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:30 GMT+0530 (IST) | > Task :app:transformDexArchiveWithDexMergerForDebug
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:31 GMT+0530 (IST) | > Task :app:mergeDebugJniLibFolders
+> Task :CordovaLib:compileDebugNdk NO-SOURCE
+> Task :CordovaLib:mergeDebugJniLibFolders
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:31 GMT+0530 (IST) | > Task :CordovaLib:transformNativeLibsWithMergeJniLibsForDebug
+> Task :CordovaLib:transformNativeLibsWithIntermediateJniLibsForDebug
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:31 GMT+0530 (IST) | > Task :app:transformNativeLibsWithMergeJniLibsForDebug
+> Task :app:processDebugJavaRes NO-SOURCE
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:31 GMT+0530 (IST) | > Task :app:transformResourcesWithMergeJavaResForDebug
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:32 GMT+0530 (IST) | > Task :app:packageDebug
+> Task :app:assembleDebug
+> Task :app:cdvBuildDebug
+
+BUILD SUCCESSFUL in 27s
+42 actionable tasks: 42 executed
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:32 GMT+0530 (IST) | Built the following apk(s): 
+	/Users/chethankumar/projects/demo/tasklist/ionic/platforms/android/app/build/outputs/apk/debug/app-debug.apk
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:33 GMT+0530 (IST) | Checking Java JDK and Android SDK versions
+ANDROID_SDK_ROOT=undefined (recommended setting)
+ANDROID_HOME=/Users/chethankumar/Library/Android/sdk (DEPRECATED)
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:36 GMT+0530 (IST) | No target specified and no devices found, deploying to emulator
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:38 GMT+0530 (IST) | No emulator specified, defaulting to Pixel_2_API_27
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:38 GMT+0530 (IST) | Waiting for emulator to start...
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:39 GMT+0530 (IST) | emulator: Requested console port 5584: Inferring adb port 5585.
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:40 GMT+0530 (IST) | Your emulator is out of date, please update by launching Android Studio:
+ - Start Android Studio
+ - Select menu "Tools > Android > SDK Manager"
+ - Click "SDK Tools" tab
+ - Check "Android Emulator" checkbox
+ - Click "OK"
+
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:55 GMT+0530 (IST) | Failed to execute shell command "getprop,dev.bootcomplete"" on device: Error: adb: Command failed with exit code 1 Error output:
+error: device unauthorized.
+This adb server's $ADB_VENDOR_KEYS is not set
+Try 'adb kill-server' if that seems wrong.
+Otherwise check for a confirmation dialog on your device.
+
+ Info | IonicTopBar | updatePreviewState | Thu Nov 21 2019, 17:28:58 GMT+0530 (IST) | emulator: INFO: boot completed
+emulator: INFO: boot time 20643 ms
+emulator: Increasing screen off timeout, logcat buffer size to 2M.
+emulator: Revoking microphone permissions for Google App.
+
